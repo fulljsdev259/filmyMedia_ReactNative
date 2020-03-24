@@ -1,3 +1,18 @@
+
+$color-disable:#DFDFDF;
+$color-blue:#4285F4;
+$color-lightGray:#9B9B9B;
+$color-grey:#4A4A4A;
+$color-white:#fff;
+$color-black:#000000;
+$color-offWhite:#F2F2F2;
+$color-border :#000000b8;
+
+@import './styles/header.scss';
+@import './styles/movieCard.scss';
+@import './styles/loader.scss';
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
